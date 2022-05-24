@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\Assets"
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\node_modules"
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\starter"
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\starter\\__tests__"
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\starter\\dist"
+		},
+		{
+			"path": "..\\NU-VIRT-FSF-FT-03-2022-U-LOL\\10-OOP\\02-Homework\\starter\\lib"
+		}
+	],
+	"settings": {}
+}
